@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Web Developer from Pará, Brazil 🇧🇷.
+  A Front-End Web Developer from Pará, Brazil 🇧🇷.
 </p>
 
 
