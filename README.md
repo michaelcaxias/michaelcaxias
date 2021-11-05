@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Michael 👨‍💻
+  Olá, 👋 Meu nome é Michael! 👨‍💻
 </h1>
 
 <p align='center'>
-  A Front-End Web Developer from Pará, Brazil 🇧🇷.
+  Desenvolvedor Front-End Web do Pará, Brazil 🇧🇷.
 </p>
 
 
