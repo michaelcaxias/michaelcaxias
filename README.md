@@ -6,7 +6,7 @@
   Desenvolvedor Front-End Web do Pará, Brazil 🇧🇷.
 </p>
 
-  <p align='center'> 🔭 Atualmente trabalho em projetos pessoais</p>
+  <p align='center'> 🔭 Atualmente sou Summer Jobber na @trybe</p>
   <p align='center'>🌱 Estudando Desenvolvimento Web na Trybe</p>
   <p align='center'>📫 E-mail para contato: 7michaeel7@gmail.com</p>
   <p align='center'>😄 Pronomes: ele/dele</p>
