@@ -50,11 +50,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </h1>
 
-<h1 align='center'>
-  Minha área de trabalho 💻<br/><br/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</h1>
+<h1 align='center'>Contribuições</h1>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=michaelcaxias&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
