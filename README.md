@@ -1,7 +1,4 @@
-<h1 align='center'>
-  Olá, 👋 Meu nome é Michael! 👨‍💻
-</h1>
-
+<img src="header.svg" />
 <p align='center'>
   Desenvolvedor Front-End Web do Pará, Brazil 🇧🇷.
 </p>
