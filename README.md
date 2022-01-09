@@ -6,17 +6,17 @@
   Desenvolvedor Front-End Web do Pará, Brazil 🇧🇷.
 </p>
 
-  <p align='center'> 🔭 Atualmente sou Summer Jobber na @trybe</p>
+  <p align='center'>🔭 Atualmente sou Summer Jobber na @trybe</p>
   <p align='center'>🌱 Estudando Desenvolvimento Web</p>
   <p align='center'>📫 E-mail para contato: contato@michaelcaxias.com.br</p>
 
 
 <p align='center'>
   <a href = "mailto:7michaeel7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ef8aa4" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/michaelcaxias/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=ef8aa4" />
   </a>&nbsp;&nbsp;
 </p>
 
