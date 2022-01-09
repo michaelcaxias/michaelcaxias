@@ -7,9 +7,8 @@
 </p>
 
   <p align='center'> 🔭 Atualmente sou Summer Jobber na @trybe</p>
-  <p align='center'>🌱 Estudando Desenvolvimento Web na Trybe</p>
-  <p align='center'>📫 E-mail para contato: 7michaeel7@gmail.com</p>
-  <p align='center'>😄 Pronomes: ele/dele</p>
+  <p align='center'>🌱 Estudando Desenvolvimento Web</p>
+  <p align='center'>📫 E-mail para contato: contato@michaelcaxias.com.br</p>
 
 
 <p align='center'>
@@ -22,8 +21,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michaelcaxias&theme=synthwave&layout=compact" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcaxias&theme=synthwave&layout=compact" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michaelcaxias&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=c2f0ff" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcaxias&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=eafaff" width="350">
 </p>
 
 <h1 align='center'>
@@ -50,6 +49,4 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </h1>
 
-<h1 align='center'>Contribuições</h1>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=michaelcaxias&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=michaelcaxias&custom_title=Michael%20Caxias%27s%20Contribution%20Graph&bg_color=0D1117&color=ff8da4&line=FFFFFF&point=c2f0ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
