@@ -1,4 +1,7 @@
 <img src="header.svg" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23EF8AA4&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Michael!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
+
 <p align='center'>
   Desenvolvedor Front-End Web do Pará, Brazil 🇧🇷.
 </p>
