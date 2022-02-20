@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/-react%20native-0D1117?style=for-the-badge&logo=react&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-redux-0D1117?style=for-the-badge&logo=redux&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=ef8aa4" />
-  <img src="https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=ef8aa4" />
