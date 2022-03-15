@@ -46,6 +46,14 @@
   <img src="https://img.shields.io/badge/-express.js-0D1117?style=for-the-badge&logo=express&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=ef8aa4" />
   <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/testing%20library-0D1117?style=for-the-badge&logo=testing-library&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/mocha.js-0D1117?style=for-the-badge&logo=mocha&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/chai.js-0D1117?style=for-the-badge&logo=chai&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/Sinon.js-0D1117?style=for-the-badge&logo=Sinon&logoColor=ef8aa4" />
+  
+  <img src="https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=ef8aa4" />
+  <img src="https://img.shields.io/badge/sequelize.js-0D1117?style=for-the-badge&logo=sequelize&logoColor=ef8aa4" />
 </h1>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=michaelcaxias&custom_title=Michael%20Caxias%27s%20Contribution%20Graph&bg_color=0D1117&color=ff8da4&line=FFFFFF&point=c2f0ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
