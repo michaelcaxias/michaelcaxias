@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=ef8aa4" />
   </div>
   <div>
-    <h2>🛠 Testes</h2>
+    <h2>🛠 Testes Automatizados</h2>
     <img src="https://img.shields.io/badge/mocha.js-0D1117?style=for-the-badge&logo=mocha&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/chai.js-0D1117?style=for-the-badge&logo=chai&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/Sinon.js-0D1117?style=for-the-badge&logo=Sinon&logoColor=ef8aa4" />
