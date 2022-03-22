@@ -28,7 +28,7 @@
 <div align='center'>
   <h1 >🛠 Tecnologias e Linguagens ⌨ </h1>
   <div>
-    <h2>Front-End</h2>
+    <h2>⚛️ Front-End</h2>
     <img src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=ef8aa4" />
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=ef8aa4" />
   </div>
   <div>
-    <h2>Back-End</h2>
+    <h2>🌟 Back-End</h2>
     <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=ef8aa4" />
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=ef8aa4" />
   </div>
   <div>
-    <h2>Testes</h2>
+    <h2>🛠 Testes</h2>
     <img src="https://img.shields.io/badge/mocha.js-0D1117?style=for-the-badge&logo=mocha&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/chai.js-0D1117?style=for-the-badge&logo=chai&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/Sinon.js-0D1117?style=for-the-badge&logo=Sinon&logoColor=ef8aa4" />
