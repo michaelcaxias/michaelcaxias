@@ -1,16 +1,7 @@
-<img src="header.svg" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23EF8AA4&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Michael!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
-
-<p align='center'>
-  Desenvolvedor Front-End Web do Pará, Brazil 🇧🇷.
-</p>
-
-  <p align='center'>🔭 Atualmente sou Summer Jobber na @trybe</p>
   <p align='center'>🌱 Estudando Desenvolvimento Web</p>
-  <p align='center'>📫 E-mail para contato: contato@michaelcaxias.com.br</p>
-
-
 <p align='center'>
   <a href = "mailto:7michaeel7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ef8aa4" target="_blank">
