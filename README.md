@@ -1,7 +1,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23EF8AA4&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+sou+Michael!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
-  <p align='center'>🌱 Estudando Backend</p>
 <p align='center'>
   <a href = "mailto:7michaeel7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ef8aa4" target="_blank">
@@ -53,7 +52,3 @@
     <img src="https://img.shields.io/badge/Cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=ef8aa4" />
   </div>
 </div>
-
-----
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=michaelcaxias&custom_title=Michael%20Caxias%27s%20Contribution%20Graph&bg_color=0D1117&color=ff8da4&line=FFFFFF&point=c2f0ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
