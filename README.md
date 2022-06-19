@@ -11,8 +11,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=michaelcaxias&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=c2f0ff" width="350"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcaxias&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=eafaff" width="350">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelcaxias&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=c2f0ff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcaxias&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=eafaff">
 </p>
 
 <div align='center'>
