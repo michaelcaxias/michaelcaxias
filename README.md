@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=ef8aa4" />
     <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=ef8aa4" />
+    <img src="https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=ef8aa4" />
   </div>
   <div>
     <h2>🛠 Testes Automatizados</h2>
