@@ -82,19 +82,17 @@
           <td>
             <img src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=ef8aa4" />
           </td>
-        </tr>
-        <tr>
           <td>
             <img src="https://img.shields.io/badge/-express.js-0D1117?style=for-the-badge&logo=express&logoColor=ef8aa4" />
           </td>
           <td>
             <img src="https://img.shields.io/badge/sequelize.js-0D1117?style=for-the-badge&logo=sequelize&logoColor=ef8aa4" />
           </td>
+        </tr>
+        <tr>
           <td>
             <img src="https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&logoColor=ef8aa4" />
           </td>
-        </tr>
-        <tr>
           <td>
             <img src="https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&logoColor=ef8aa4" />
           </td>
@@ -122,8 +120,6 @@
           <td>
             <img src="https://img.shields.io/badge/Sinon.js-0D1117?style=for-the-badge&logo=Sinon&logoColor=ef8aa4" />
           </td>
-        </tr>
-        <tr>
           <td>
             <img src="https://img.shields.io/badge/testing%20library-0D1117?style=for-the-badge&logo=testing-library&logoColor=ef8aa4" />
           </td>
