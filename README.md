@@ -7,8 +7,6 @@
   <img width="25px" src="https://i.imgur.com/k70nBye.png" />
   Socials
 </h2>
-
-<img align="right" width="150px" src="https://i.pinimg.com/originals/81/ba/c9/81bac953a776ea1c2b205597d76e113c.gif" />
   
 <a href="https://www.linkedin.com/in/michaelcaxias/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -59,8 +57,6 @@
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D?&logo=Swagger&logoColor=white)
 ![go](https://img.shields.io/badge/Go-00ADD8?&logo=go&logoColor=white)
 
-<img align="right" width="150px" src="https://media2.giphy.com/media/xUPGcl0SCJdfwjw1Y4/giphy.gif?cid=790b76116a5e72bc66686522c1382df3dfe7493bf17bcac5&rid=giphy.gif&ct=s" />
-
 <h3>
     <img width="30px" src="https://win98icons.alexmeub.com/icons/png/computer_2_cool-4.png" />
   Computer Science & Automation
@@ -109,5 +105,3 @@
 
 ![mac](https://img.shields.io/badge/Apple-MacBook_Pro_2019-333333?&logo=apple&logoColor=white)
 ![i7](https://img.shields.io/badge/Intel%20Core_i7_6th-0071C5?&logo=intel&logoColor=white)
-
-<img width="90%" src="https://64.media.tumblr.com/69f69d3f43280c425406c83c167837dc/6ef001c9472635ba-19/s1280x1920/4a99ba2ee8715d09a238f598c3b5b0c3e5a5b537.gif" />
